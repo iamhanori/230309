@@ -1,2 +1,2 @@
-# 230309
-spring study
+# 230309 spring
+객체 생성, 실행
